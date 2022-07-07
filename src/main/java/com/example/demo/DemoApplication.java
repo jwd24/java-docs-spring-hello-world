@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Dude I'm confused!!!!";
+		return "Hello Dude Does it automatically deploy?!!!!";
 	}
 }
